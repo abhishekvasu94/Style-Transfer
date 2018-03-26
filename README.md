@@ -1,6 +1,15 @@
 # Style-Transfer
 This is an implementation of the paper "Image Style Transfer Using Convolutional Neural Networks", authored by Gatys et al. This project was done using Tensorflow. A pretrained VGG16 model was used. The max pool layers were replaced by average pooling, and the Adam Optimizer was used instead of L-BFGS which was used in the paper.
 
+## Content Image
+![Content image](https://github.com/abhishekvasu94/Style-Transfer/blob/master/images/profile_pic.jpg)
+
+## Style Image
+![Style image](https://github.com/abhishekvasu94/Style-Transfer/blob/master/images/starry-night.jpg)
+
+## Final Output
+![Final output](https://github.com/abhishekvasu94/Style-Transfer/blob/master/images/final_img.jpg)
+
 
 ## Files
 
@@ -12,3 +21,12 @@ The training of the network is defined here. The paper describes two losses - th
 
 ### test.py
 This is the main function, containing the various hyperparameters and initialisations. Running this script will begin the training.
+
+
+## Dependencies
+
+Python 2
+
+Tensorflow
+
+Opencv 2.4
