@@ -34,5 +34,7 @@ Opencv 2.4
 ## References
 
 ["Image Style Transfer Using Convolutional Neural Networks" - Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+
 [Reference 1](https://github.com/hwalsuklee/tensorflow-style-transfer)
+
 [Reference 2](https://github.com/machrisaa/tensorflow-vgg)
